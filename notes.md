@@ -1,7 +1,8 @@
 gets.chomp.to_i 
 
 Escape Sequences
-| Escape | What it does. | 
+| Escape | What it does. |
+|--------------------|---------------------| 
 | \\	| Backslash ()
 | \'	| Single-quote (')
 | \"	| Double-quote (")
