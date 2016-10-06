@@ -3,21 +3,21 @@
 ## Table of Contents
 | Exercise                | Topic           
 |--------------------|---------------------| 
-| Exercise 1 | A Good First Program
-| Exercise 2 | Comments and Pound Characters
-| Exercise 3 | Numbers and Math
-| Exercise 4 | Variables and Names
-| Exercise 5 | More Variable and Printing
-| Exercise 6 | Strings and Text
-| Exercise 7 | More Printing
-| Exercise 8 | Printing, Printing
-| Exercise 9 | Printing, Printing, Printing
-| Exercise 10 | What Was That?
-| Exercise 11 | Asking Questions?
-| Exercise 12 | Prompting People?
-| Exercise 13 | Parameters, Unpacking, Variables
-| Exercise 14 | Prompting and Passing 
-| Exercise 15 | Reading Files
+| Exercise 1 | [A Good First Program](exercises/ex1.rb)
+| Exercise 2 | [Comments and Pound Characters](exercises/ex2.rb)
+| Exercise 3 | [Numbers and Math](exercises/ex3.rb)
+| Exercise 4 | [Variables and Names](exercises/ex4.rb)
+| Exercise 5 | [More Variable and Printing](exercises/ex5.rb)
+| Exercise 6 | [Strings and Text](exercises/ex6.rb)
+| Exercise 7 | [More Printing](exercises/ex7.rb)
+| Exercise 8 | [Printing, Printing](exercises/ex8.rb)
+| Exercise 9 | [Printing, Printing, Printing](exercises/ex9.rb)
+| Exercise 10 | [What Was That?](exercises/ex10.rb)
+| Exercise 11 | [Asking Questions?](exercises/ex11.rb)
+| Exercise 12 | [Prompting People?](exercises/ex12.rb)
+| Exercise 13 | [Parameters, Unpacking, Variables](exercises/ex13.rb)
+| Exercise 14 | [Prompting and Passing](exercises/ex14.rb)
+| Exercise 15 | [Reading Files](exercises/ex15.rb)
 | Exercise 16 | Reading and Writing Files
 | Exercise 17 | More Files
 | Exercise 18 | Names, Variables, Code, Functions
