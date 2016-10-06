@@ -18,11 +18,11 @@
 | Exercise 13 | [Parameters, Unpacking, Variables](exercises/ex13.rb)
 | Exercise 14 | [Prompting and Passing](exercises/ex14.rb)
 | Exercise 15 | [Reading Files](exercises/ex15.rb)
-| Exercise 16 | Reading and Writing Files
-| Exercise 17 | More Files
-| Exercise 18 | Names, Variables, Code, Functions
-| Exercise 19 | Functions and Variables
-| Exercise 20 | Functions and Files
+| Exercise 16 | [Reading and Writing Files](exercises/ex16.rb)
+| Exercise 17 | [More Files](exercises/ex17.rb)
+| Exercise 18 | [Names, Variables, Code, Functions](exercises/ex18.rb)
+| Exercise 19 | [Functions and Variables](exercises/ex19.rb)
+| Exercise 20 | [Functions and Files](exercises/ex20.rb)
 | Exercise 21 | Functions Can Return Something
 | Exercise 22 | What Do You Know So Far?
 | Exercise 23 | Read Some Code
