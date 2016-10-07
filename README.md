@@ -23,8 +23,8 @@
 | Exercise 18 | [Names, Variables, Code, Functions](exercises/ex18.rb)
 | Exercise 19 | [Functions and Variables](exercises/ex19.rb)
 | Exercise 20 | [Functions and Files](exercises/ex20.rb)
-| Exercise 21 | Functions Can Return Something
-| Exercise 22 | What Do You Know So Far?
+| Exercise 21 | [Functions Can Return Something](exercies/ex21.rb)
+| Exercise 22 | [What Do You Know So Far?](exercises/ex22.md)
 | Exercise 23 | Read Some Code
 | Exercise 24 | More Practice
 | Exercise 25 | Even More Practice
