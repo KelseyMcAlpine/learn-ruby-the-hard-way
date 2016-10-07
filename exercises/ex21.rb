@@ -1,4 +1,4 @@
-def add (a.b)
+def add (a, b)
   puts "ADDING #{a} + #{b}"
   return a + b
 end
@@ -21,7 +21,7 @@ end
 puts "Lets do some math with just functions!"
 
 age = add(30, 5)
-height = subtract (78, 4)
+height = subtract(78, 4)
 weight = multiply(90, 2)
 iq = divide(100, 2)
 
