@@ -30,7 +30,7 @@
 | Exercise 25 | [Even More Practice](exercises/ex25.rb)
 | Exercise 26 | [Congratulations, Take a Test!](exercises/ex26.rb)
 | Exercise 27 | [Memorizing Logic](exercises/ex27.md)
-| Exercise 28 | Boolean Practice
+| Exercise 28 | [Boolean Practice](exercises/ex28.rb)
 | Exercise 29 | What If
 | Exercise 30 | Else And If
 | Exercise 31 | Making Decisions
