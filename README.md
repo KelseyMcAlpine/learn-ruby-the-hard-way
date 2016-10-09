@@ -37,8 +37,8 @@
 | Exercise 32 | [Loops and Lists](exercises/ex32.rb)
 | Exercise 33 | [While Loops](exercises/ex33.rb)
 | Exercise 34 | [Accessing Elements of Lists](exercises/ex34.rb)
-| Exercise 35 | Branches and Functions
-| Exercise 36 | Designing and Debugging
+| Exercise 35 | [Branches and Functions](exercises/ex35.rb)
+| Exercise 36 | [Designing and Debugging](exercises/ex36.rb)
 | Exercise 37 | Symbol Review
 | Exercise 38 | Doing Things to Lists
 | Exercise 39 | Dictionaries, Oh Lovely Dictionaries
