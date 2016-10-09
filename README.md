@@ -28,8 +28,8 @@
 | Exercise 23 | [Read Some Code](exercises/ex23.rb)
 | Exercise 24 | [More Practice](exercises/ex24.rb)
 | Exercise 25 | [Even More Practice](exercises/ex25.rb)
-| Exercise 26 | Congratulations, Take a Test!
-| Exercise 27 | Memorizing Logic
+| Exercise 26 | [Congratulations, Take a Test!](exercises/ex26.rb)
+| Exercise 27 | [Memorizing Logic](exercises/ex27.md)
 | Exercise 28 | Boolean Practice
 | Exercise 29 | What If
 | Exercise 30 | Else And If
