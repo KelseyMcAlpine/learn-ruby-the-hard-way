@@ -31,12 +31,12 @@
 | Exercise 26 | [Congratulations, Take a Test!](exercises/ex26.rb)
 | Exercise 27 | [Memorizing Logic](exercises/ex27.md)
 | Exercise 28 | [Boolean Practice](exercises/ex28.rb)
-| Exercise 29 | What If
-| Exercise 30 | Else And If
-| Exercise 31 | Making Decisions
-| Exercise 32 | Loops and Lists
-| Exercise 33 | While Loops
-| Exercise 34 | Accessing Elements of Lists
+| Exercise 29 | [What If](exercises/ex29.rb)
+| Exercise 30 | [Else And If](exercises/ex30.rb)
+| Exercise 31 | [Making Decisions](exercises/ex31.rb)
+| Exercise 32 | [Loops and Lists](exercises/ex32.rb)
+| Exercise 33 | [While Loops](exercises/ex33.rb)
+| Exercise 34 | [Accessing Elements of Lists](exercises/ex34.rb)
 | Exercise 35 | Branches and Functions
 | Exercise 36 | Designing and Debugging
 | Exercise 37 | Symbol Review
