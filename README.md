@@ -39,7 +39,7 @@
 | Exercise 34 | [Accessing Elements of Lists](exercises/ex34.rb)
 | Exercise 35 | [Branches and Functions](exercises/ex35.rb)
 | Exercise 36 | [Designing and Debugging](exercises/ex36.rb)
-| Exercise 37 | Symbol Review
+| Exercise 37 | [Symbol Review](exercises/ex37.md)
 | Exercise 38 | Doing Things to Lists
 | Exercise 39 | Dictionaries, Oh Lovely Dictionaries
 | Exercise 40 | Modules, Classes, And Objects
